@@ -1,0 +1,32 @@
+body {
+    width: 70%;
+    margin: auto;
+    background-color: #141c3a;
+}
+
+h1 {
+    color: white;
+    font-size: 24px;
+    text-align: center;
+}
+
+#hadith {
+    font-size: 24px;
+    text-align: center;
+    color: #EFBB24;
+}
+
+#button-container {
+    width: fit-content;
+    margin: auto;
+}
+
+#hadith-button {
+    font-size: 16px;
+    padding: 10px;
+    background-color: white;
+    border: 5px solid #D0104C;
+    border-radius: 5px;
+    color: #141c3a;
+    cursor: pointer;
+}
